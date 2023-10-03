@@ -21,6 +21,7 @@ Save the data to the file
 # PROGRAM AND OUTPUT:
 
 Name : G.TEJASWINI
+
 Reg no : 212222230157
 
 ```python
@@ -107,7 +108,8 @@ plt.show()
 ```
 <img width="327" alt="image" src="https://github.com/TejaswiniGugananthan/Ex-06-Feature-Transformation/assets/121222763/7f2a5e99-f324-4dc1-93f5-b0d63f18d524">
 
-
+# RESULT:
+Thus, Feature transformation is performed and executed successfully for the given dataset.
 
 
 
